@@ -24,7 +24,7 @@
 - **HCIA-AI Certified** – Huawei (2021)
 - **HCAI-Instructor Certified** – Huawei (2021)  
 - **Machine Learning Specialization** – Stanford University (Coursera)  
-- **BSc in Computer Science**, Ain Shams University (GPA: 3.8/4.0)  
+- **BSc in Computer Science**, Ain Shams University  
 
 ---
 
