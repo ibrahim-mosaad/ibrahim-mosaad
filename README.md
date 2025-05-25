@@ -1,4 +1,4 @@
-# 🎓 Ibrahim Hamada Mosaad, MSc  
+# 🎓 Ibrahim Hamada Mosaad, BSc  
 #### *AI Researcher | Certified AI Instructor | Medical AI Specialist*  
 <p align="center">
   <a href="https://linkedin.com/in/ibrahim-hamada-mosaad-a91a66170" target="_blank">
