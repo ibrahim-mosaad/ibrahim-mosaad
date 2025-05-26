@@ -71,8 +71,8 @@
 
 ## 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beboTak&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beboTak&layout=compact&theme=radical" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-mosaad&show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-mosaad&layout=compact&theme=radical" width="45%">
 </p>
 
 ---
