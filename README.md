@@ -44,9 +44,9 @@
 ## 🚀 Key Projects  
 | Project | Description | Technologies |  
 |---------|-------------|--------------|  
-| **[Alzheimer’s Stage Detection](https://github.com/beboTak)** | CNN model with 88% accuracy for early diagnosis | TensorFlow, OpenCV |  
+| **[Alzheimer’s Stage Detection](https://github.com/ibrahim-mosaad)** | CNN model with 88% accuracy for early diagnosis | TensorFlow, OpenCV |  
 | **[CraftsMan AI](https://play.google.com/store/apps/details?id=com.logincode.crafts)** | Flutter app with AI-based worker matching | Flutter, Firebase |  
-| **[Heart Disease Prediction]([https://github.com/beboTak](https://github.com/ibrahim-mosaad/heart-disease-prediction))** | ML model achieving 97% accuracy | Scikit-learn, Python |  
+| **[Heart Disease Prediction](https://github.com/ibrahim-mosaad/heart-disease-prediction)** | ML model achieving 97% accuracy | Scikit-learn, Python |  
 
 ---
 
